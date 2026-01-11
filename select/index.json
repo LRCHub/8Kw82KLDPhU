@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "さみしいかみさま",
+  "base_artist": "DAOKO",
+  "createdAt": "2026-01-11T10:11:28.414578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さみしいかみさま",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/01_さみしいかみさま_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さみしいかみさま (Re-Arrange)",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/02_さみしいかみさま_(Re-Arrange)_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Samishii Kamisama (Re-Arrange) [さみしいかみさま (Re-Arrange)]",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/03_Samishii_Kamisama_(Re-Arrange)_[さみしいかみさま_(Re-Arrange)]_DAOKO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Samishii Kamisama [さみしいかみさま]",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/04_Samishii_Kamisama_[さみしいかみさま]_DAOKO.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さみしいかみさま",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/05_さみしいかみさま_DAOKO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さみしいかみさま",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/pl_01_さみしいかみさま_DAOKO.txt"
+    }
+  ]
+}
